@@ -1,4 +1,8 @@
 # TIC-TAC-TOE 4x4
+
+## Compilacion
+
+Extraer los archivos en una misma carpeta, ejecutar el makefile y ejecutar con ./Game 
  
 ## Reglas del juego
  
