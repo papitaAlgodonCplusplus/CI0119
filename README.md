@@ -1,6 +1,6 @@
-#TIC-TAC-TOE 4x4
+# TIC-TAC-TOE 4x4
  
-##Reglas del juego
+## Reglas del juego
  
 Por turnos, cada jugador selecciona la letra correspondiente a la casilla 
 donde desea poner su jugada (puede seleccionar 5 para recibir las instrucciones).
