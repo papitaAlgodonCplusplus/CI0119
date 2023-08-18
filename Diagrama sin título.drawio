@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-18T20:14:16.376Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-eMIzeouCbizJNXWq_8j" version="21.6.8" type="github">
+<mxfile modified="2023-08-18T20:17:30.729Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1u2vAWH5bATNedkXotRg" version="21.6.8" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="367" dy="196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,20 @@
         <mxCell id="F8W67YJa6soCmaiYg5qT-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_dropbox_box-128.png;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="543.41" y="651.5" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="F8W67YJa6soCmaiYg5qT-16" value="&lt;font color=&quot;#177517&quot;&gt;Username&amp;nbsp;∈ Database ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;font color=&quot;#8c0047&quot;&gt;Password = Password ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;font color=&quot;#913d13&quot;&gt;UserKey = UserKey ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;br&gt;return &lt;font color=&quot;#00cc00&quot;&gt;OK&lt;/font&gt;, else, &lt;font color=&quot;#d91600&quot;&gt;AuthError&lt;/font&gt;(&lt;font color=&quot;#177517&quot;&gt;error&lt;/font&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F8W67YJa6soCmaiYg5qT-16" value="&lt;font color=&quot;#177517&quot;&gt;Username&amp;nbsp;∈ Database ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;font color=&quot;#8c0047&quot;&gt;Password = Password ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;font color=&quot;#913d13&quot;&gt;UserKey = UserKey ?&lt;/font&gt; -&amp;gt;&lt;br&gt;&lt;br&gt;return &lt;font color=&quot;#00cc00&quot;&gt;OK&lt;/font&gt;, else, &lt;font color=&quot;#d91600&quot;&gt;AuthError&lt;/font&gt;(&lt;font color=&quot;#177517&quot;&gt;error&lt;/font&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="584.41" y="638" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="F8W67YJa6soCmaiYg5qT-17" value="UserNode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427.41" y="657" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F8W67YJa6soCmaiYg5qT-18" value="UserDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="749.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F8W67YJa6soCmaiYg5qT-19" value="Compressed Struct Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.41" y="427.5" width="74.59" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="F8W67YJa6soCmaiYg5qT-22" value="" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;" vertex="1" parent="1">
+          <mxGeometry x="532.82" y="720" width="28" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
